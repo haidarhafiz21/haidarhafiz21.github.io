@@ -1,0 +1,305 @@
+.utama {
+  backdrop-filter: blur(30px);
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 10px;
+  border-radius: 3px;
+}
+
+.utama .atas a {
+  margin-left: 202px;
+}
+
+.atas a {
+  justify-content: center;
+  margin: 30px;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+.atas a:hover {
+  background-color: rgb(237, 199, 154);
+  color: rgb(165, 97, 2);
+  padding: 5px;
+  border-radius: 3px;
+}
+
+.atas h3 {
+  margin-left: 1150px;
+}
+
+.atas li:hover {
+  text-decoration: underline;
+  background-color: rgba(187, 183, 183, 0.71);
+  padding: 3px;
+  border-radius: 3px;
+}
+
+.satu .ar {
+  padding: 10px;
+  width: 1440px;
+  height: 600px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px burlywood;
+}
+
+.satu .hh {
+  margin-top: -430px;
+  margin-left: 200px;
+}
+
+.satu .hh p {
+  color: rgb(0, 0, 0);
+}
+
+.satu .hh img {
+  margin-left: 750px;
+  margin-top: -250px;
+  border: 2px solid rgb(228, 139, 14);
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px burlywood;
+  background-color: bisque;
+  width: 420px;
+  height: 230px;
+}
+
+.satu .but {
+  margin-left: 1110px;
+  margin-top: -10px;
+}
+
+.but button {
+  background-color: rgb(230, 156, 65);
+  color: white;
+  border-radius: 5px;
+}
+
+#profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px;
+}
+
+.file .halo h2 {
+  text-align: center;
+  margin-top: 350px;
+}
+
+.alo img {
+  width: 800px;
+  height: 450px;
+  border-radius: 4px;
+  margin-left: 180px;
+}
+
+.alo .bb {
+  text-align: center;
+}
+
+.aa1 img {
+  width: 300px;
+  height: 300px;
+  border: 4px solid rgb(226, 161, 39);
+  padding-bottom: 200px;
+}
+
+.cc2 img {
+  width: 300px;
+  height: 300px;
+  border: 4px solid rgb(226, 161, 39);
+  padding-bottom: 200px;
+  margin-top: 10px;
+}
+
+.yy3 img {
+  width: 300px;
+  height: 300px;
+  border: 4px solid rgb(226, 161, 39);
+  padding-bottom: 200px;
+  margin-top: 10px;
+}
+
+.hihi p {
+  margin-left: 190px;
+  margin-top: -200px;
+}
+
+.aa1 {
+  margin-left: -200px;
+}
+
+.cc2 {
+  margin-left: 200px;
+  margin-top: -500px;
+  border-radius: 5px;
+}
+
+.yy3 {
+  margin-left: 600px;
+  margin-top: -520px;
+}
+
+#ability {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px;
+}
+
+.abi {
+  text-align: center;
+}
+
+.lit .skil img {
+  width: 300px;
+  height: 300px;
+  border-radius: 5px;
+}
+
+.skil .roti {
+  border: 4px solid burlywood;
+}
+
+.punya .rotip {
+  margin-left: 10px;
+}
+
+.skil .mayo {
+  border: 4px solid burlywood;
+  margin-left: 100px;
+}
+
+.punya .mayop {
+  margin-left: 420px;
+  margin-top: -100px;
+}
+
+#media {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+}
+
+.dua h1 {
+  text-align: center;
+}
+
+.dua p {
+  text-align: center;
+}
+
+.data a {
+  text-decoration: none;
+  color: rgb(238, 131, 0);
+}
+
+#Galeri_foto {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+}
+
+.galeri .hir {
+  text-align: center;
+}
+
+.galeri .a {
+  width: 600px;
+  height: 400px;
+  border: 5px solid rgb(239, 189, 128);
+}
+
+.galeri .b {
+  width: 350px;
+  height: 400px;
+  border: 5px solid rgb(239, 189, 128);
+}
+
+.galeri .c {
+  width: 400px;
+  height: 400px;
+  border: 5px solid rgb(239, 189, 128);
+}
+
+.galeri .d {
+  width: 300px;
+  height: 400px;
+  border: 5px solid rgb(239, 189, 128);
+}
+
+.galeri .e {
+  width: 700px;
+  height: 400px;
+  margin-left: 25px;
+  border: 5px solid rgb(239, 189, 128);
+}
+
+.galeri .f {
+  width: 300px;
+  height: 400px;
+  margin-left: 25px;
+  border: 5px solid rgb(239, 189, 128);
+}
+
+.galeri .g {
+  width: 300px;
+  height: 400px;
+  border: 5px solid rgb(239, 189, 128);
+}
+
+.galeri .h {
+  width: 400px;
+  height: 400px;
+  margin-left: 140px;
+  border: 5px solid rgb(239, 189, 128);
+}
+
+.galeri .i {
+  width: 400px;
+  height: 400px;
+  margin-left: 110px;
+  border: 5px solid rgb(239, 189, 128);
+}
+
+.galeri .j {
+  width: 100%;
+  height: 800px;
+  border: 5px solid rgb(239, 189, 128);
+}
+
+.footer {
+  background-color: #212429;
+  color: white;
+  border-radius: 5px;
+  margin-top: 50px;
+}
+
+.saya {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  margin-left: 100px;
+}
+
+.mampu {
+  margin-left: 150px;
+}
+
+hr {
+  width: 1250px;
+}
+
+.mampu li {
+  list-style: none;
+  color: white;
+}
+
+.salin p {
+  margin-left: 20px;
+}
